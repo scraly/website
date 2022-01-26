@@ -9,6 +9,10 @@ title: Configure the Gitpod Workspaces in your Gitpod Self-Hosted installation
 
 # Workspaces
 
+> ⚠️ **Deprecated Content**
+>
+> The content of this page assumes you are using Helm, which is now deprecated.
+
 ## Sizing
 
 Gitpod schedules workspaces as Kubernetes pods. Each workspace pod requests a certain amount of memory which directly affects how many workspaces are scheduled on a single node.

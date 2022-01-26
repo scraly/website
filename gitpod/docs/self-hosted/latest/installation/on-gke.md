@@ -9,6 +9,10 @@ title: Install Gitpod Self-Hosted on Google Kubernetes Engine (GKE)
 
 # Install Gitpod Self-Hosted on Google Kubernetes Engine (GKE)
 
+> ⚠️ **Deprecated Contents**
+>
+> This guide uses the Helm installation method, which is now deprecated. We will update it soon.
+
 Installation instructions for Gitpod Self-Hosted on Google Kubernetes Engine are currently located in the [gitpod-io/gitpod-gke-guide](https://github.com/gitpod-io/gitpod-gke-guide) repository on GitHub. The installation process takes around twenty minutes. In the end, the following resources are created:
 
 - A GKE cluster running Kubernetes v1.21 ([rapid channel](https://cloud.google.com/kubernetes-engine/docs/release-notes-rapid)).

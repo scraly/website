@@ -9,6 +9,10 @@ title: Configure the authentication used by your Gitpod Self-Hosted installation
 
 # Configure the authentication used by your Gitpod Self-Hosted installation
 
+> ⚠️ **Deprecated Content**
+>
+> The content of this page assumes you are using Helm, which is now deprecated.
+
 Gitpod does not implement user authentication itself, but integrates with other auth provider using [OAuth2](https://oauth.net/2/).
 Usually your Git hosting solution (e.g. GitHub or GitLab) acts as the OAuth auth provider. This way we control access to Gitpod while at
 the same time making sure every user has proper access to their Git repository.

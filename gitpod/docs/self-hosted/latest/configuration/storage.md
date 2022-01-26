@@ -9,6 +9,10 @@ title: Configure the storage used by your Gitpod installation
 
 # Configure the storage used by your Gitpod installation
 
+> ⚠️ **Deprecated Content**
+>
+> The content of this page assumes you are using Helm, which is now deprecated.
+
 Gitpod uses bucket storage to persist the contents of workspaces. Each workspace is tarballed into a single archive file which is then uploaded to a separate bucket.
 
 By default Gitpod installs [MinIO](https://min.io/) as built-in bucket storage which uses a [persistent volume](https://kubernetes.io/docs/concepts/storage/persistent-volumes/) to store workspace content.

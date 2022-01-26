@@ -9,6 +9,10 @@ title: Configure the ingress to your Gitpod installation
 
 # Configure the ingress to your Gitpod installation
 
+> ⚠️ **Deprecated Content**
+>
+> The content of this page assumes you are using Helm, which is now deprecated.
+
 Configuring ingress into your Gitpod installation requires two things:
 
 - three DNS entries pointing at the IP of Gitpod's proxy service, and

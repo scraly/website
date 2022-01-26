@@ -204,12 +204,12 @@ export const selfhostedFAQ: FAQ = {
     {
       title: "How can I install Self-Hosted?",
       content:
-        ' <p> You can either install <strong>Gitpod Self-Hosted</strong> on <a href="/docs/self-hosted/latest/installation/on-gke">Google GKE</a>, <a href="/docs/self-hosted/latest/installation/on-amazon-eks" >Amazon EKS</a >, <a href="/docs/self-hosted/latest/installation/on-microsoft-aks" >Azure AKS</a > or <a href="/docs/self-hosted/latest/installation/on-kubernetes">K3s</a>. See <a href="/docs/self-hosted/latest">Self-Hosted Docs</a> for more information. </p>',
+        '<p> You can either install <strong>Gitpod Self-Hosted</strong> on Google GKE, Amazon EKS, Azure AKS, or K3s. See <a href="/docs/self-hosted/latest">Self-Hosted Docs</a> for more information. </p>',
     },
     {
       title: "How can I pay?",
       content:
-        ' <p> Currently, <strong>Gitpod Self-Hosted</strong> can only be purchased on request. Please <a href="/enterprise-license">request a license key</a> and we\'ll contact you. If you have any questions, please <a href="/contact/sales">Get in touch</a>. All our plans can be paid via invoice. </p>',
+        '<p> Currently, <strong>Gitpod Self-Hosted</strong> can only be purchased on request. Please <a href="/enterprise-license">request a license key</a> and we\'ll contact you. If you have any questions, please <a href="/contact/sales">Get in touch</a>. All our plans can be paid via invoice. </p>',
     },
     {
       title: "Do you offer discounts for educational institutions?",

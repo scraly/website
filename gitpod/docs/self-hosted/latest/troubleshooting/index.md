@@ -9,6 +9,10 @@ title: Troubleshooting Gitpod Self-Hosted
 
 # Troubleshooting Gitpod Self-Hosted
 
+> ⚠️ **Deprecated Content**
+>
+> The content of this page assumes you are using Helm, which is now deprecated.
+
 This section should solve all errors that might come up during installation of Gitpod.
 
 ## 1. `ws-daemon` is stuck in `Init: 0/1`

@@ -9,6 +9,10 @@ title: Configuring Gitpod Self-Hosted
 
 # Configuring Gitpod Self-Hosted
 
+> ⚠️ **Deprecated Content**
+>
+> The content of the linked pages assume you are using Helm, which is now deprecated.
+
 - [Configure the database used by your Gitpod Self-Hosted installation](./configuration/database)
 - [Configure the Docker registry used by your Gitpod Self-Hosted installation](./configuration/docker-registry)
 - [Configure the ingress to your Gitpod Self-Hosted installation](./configuration/ingress)

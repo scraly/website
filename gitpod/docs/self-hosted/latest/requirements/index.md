@@ -15,10 +15,10 @@ This page details the software and hardware requirements for installing Gitpod S
 
 Gitpod Self-Hosted runs well on:
 
-- [Amazon Elastic Kubernetes Service](./installation/on-amazon-eks)
-- [Google Kubernetes Engine](./installation/on-gke)
-- [K3s](./installation/on-kubernetes)
-- [Microsoft Azure Kubernetes Service](./installation/on-microsoft-aks)
+- Amazon Elastic Kubernetes Service]
+- Google Kubernetes Engine
+- Microsoft Azure Kubernetes Service
+- K3s
 
 ## Incompatible Kubernetes distributions
 

@@ -9,6 +9,10 @@ title: Configure the Docker registry used by your Gitpod Self-Hosted installatio
 
 # Configure the Docker registry used by your Gitpod Self-Hosted installation
 
+> ⚠️ **Deprecated Content**
+>
+> The content of this page assumes you are using Helm, which is now deprecated.
+
 Gitpod builds Docker images during workspace startup. This enables custom Dockerfiles as part of your workspace config, but is also required for Gitpod itself to function.
 To this end, Gitpod requires a container registry where it can push the images it builds.
 
